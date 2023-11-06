@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">APPS_4</string>
+    <!--Principal-->
+    <string name="ivApp">App</string>
+    <string name="tvBienvenida">Bienvenido</string>
+    <string name="btnIniciar">Ingresar</string>
+    <!--Inicio-->
+    <string name="tvElegir">Elige una opción: </string>
+    <string name="btn1">Calcular edad</string>
+    <string name="btn2">Calcular compra</string>
+    <string name="btn3">Realizar Test</string>
+    <string name="btn4">Calcular IMC</string>
+    <!--Edad-->
+    <string name="tvTituloEdad">Calculadora de edad</string>
+    <string name="etDia">Ingrese día</string>
+    <string name="etMes">Ingrese Mes</string>
+    <string name="etAno">Ingrese el año</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvTitulo2">Su edad actual es: </string>
+    <string name="tvEdadActual"></string>
+
+</resources>
